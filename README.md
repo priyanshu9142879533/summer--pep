@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/priyanshu9142879533/summer--pep/tree/master/0303-range-sum-query-immutable) |
+| [0875-koko-eating-bananas](https://github.com/priyanshu9142879533/summer--pep/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/priyanshu9142879533/summer--pep/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/priyanshu9142879533/summer--pep/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
