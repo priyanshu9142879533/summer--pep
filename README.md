@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/priyanshu9142879533/summer--pep/tree/master/0303-range-sum-query-immutable) |
 | [0875-koko-eating-bananas](https://github.com/priyanshu9142879533/summer--pep/tree/master/0875-koko-eating-bananas) |
 ## Design
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -40,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
