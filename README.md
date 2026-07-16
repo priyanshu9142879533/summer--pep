@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/priyanshu9142879533/summer--pep/tree/master/0875-koko-eating-bananas) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
