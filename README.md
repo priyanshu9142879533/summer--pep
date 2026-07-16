@@ -26,12 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
