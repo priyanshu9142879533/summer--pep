@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,18 +39,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
 |  |
 | ------- |
