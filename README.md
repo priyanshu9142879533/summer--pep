@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyanshu9142879533/summer--pep/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/priyanshu9142879533/summer--pep/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/priyanshu9142879533/summer--pep/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/1971-find-if-path-exists-in-graph) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/priyanshu9142879533/summer--pep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyanshu9142879533/summer--pep/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/priyanshu9142879533/summer--pep/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/priyanshu9142879533/summer--pep/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanshu9142879533/summer--pep/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/priyanshu9142879533/summer--pep/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/priyanshu9142879533/summer--pep/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/priyanshu9142879533/summer--pep/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/priyanshu9142879533/summer--pep/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/priyanshu9142879533/summer--pep/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priyanshu9142879533/summer--pep/tree/master/1971-find-if-path-exists-in-graph) |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/priyanshu9142879533/summer--pep/tree/master/0207-course-schedule) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu9142879533/summer--pep/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/priyanshu9142879533/summer--pep/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/priyanshu9142879533/summer--pep/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
